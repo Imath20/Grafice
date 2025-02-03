@@ -198,13 +198,13 @@
   gap: 15px;
 }
 .create-point-popup .popup-content .data-input .section label {
-  font-size: 23px;
+  font-size: 22px;
 }
 .create-point-popup .popup-content .data-input .section input[type=text],
 .create-point-popup .popup-content .data-input .section input[type=date],
 .create-point-popup .popup-content .data-input .section input[type=number] {
   all: unset;
-  width: 30px;
+  width: 38px;
   border: 1px solid white;
   border-radius: 8px;
   padding: 3px;
